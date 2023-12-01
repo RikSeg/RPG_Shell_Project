@@ -1,0 +1,11 @@
+LISTA DE COMANDOS:
+
+-help - abre este menu
+
+-open - abre arquivos armazenados no mainframe F.I.C.E.(dependendo do arquivo, é preciso de uma chave de acesso)
+
+-access_code - para inserção de códigos de acesso (arquivos com ".t2", ".t3", ... são Tier 2, 3, ... e dependem de um código de acesso) 
+
+-clear - limpa a tela do terminal
+
+-exit - termina a conexão
