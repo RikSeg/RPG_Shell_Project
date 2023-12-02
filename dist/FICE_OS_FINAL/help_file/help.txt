@@ -1,9 +1,0 @@
-COMANDOS:
-
--help - abre esta lista
-
--open - abre arquivos armazenados no mainframe F.I.C.E.(dependendo do arquivo, é preciso de uma chave de acesso)
-
--clear - limpa a tela do terminal
-
--exit - termina a conexão
