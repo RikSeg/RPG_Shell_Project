@@ -14,5 +14,5 @@ Os arquivos são organizados em Tiers (.t1, .t2, .t3,etc.) sendo que cada tier u
 
 
 ## Para Executar:
--Pelo terminal/cmd:
-python Terminal_shell
+- Pelo terminal/cmd:
+python Terminal_shell.py
