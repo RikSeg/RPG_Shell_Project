@@ -1,5 +1,5 @@
-#Português:
-#Terminal Shell Temático:
+# Português:
+# Terminal Shell Temático:
 
 - O programa é apenas uma interface de terminal simples que permite abrir arquivos na tela e simular entrada de credenciais para acesso a alguns arquivos. (ainda não implementado).
 - O objetivo do programa era para ser usado como base de dados para um RPG de mesa, portanto tem a temática de uma fundação fictícia usada no RPG. Talvez futuramente posso fazer ele um sistema com arquitetura Cliente-Servidor verdadeira.
