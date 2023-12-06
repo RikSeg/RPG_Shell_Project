@@ -1,4 +1,3 @@
-# Português:
 # Terminal Shell Temático:
 
 - O programa é apenas uma interface de terminal simples que permite abrir arquivos na tela e simular entrada de credenciais para acesso a alguns arquivos. (ainda não implementado).
@@ -16,3 +15,5 @@ Os arquivos são organizados em Tiers (.t1, .t2, .t3,etc.) sendo que cada tier u
 ## Para Executar:
 - Pelo terminal/cmd:
 python Terminal_shell.py
+- Executável:
+Acessando a pasta dist/ desse repositório há o .zip da pasta com um executável do programa e as pastas necessárias para ele funcionar.
