@@ -19,4 +19,5 @@ Arquivo de ajuda para listar comandos está na pasta help_file/
 python Terminal_shell.py
 ~~~
 - Executável:
+
 Acessando a pasta dist/ desse repositório há o .zip da pasta com um executável do programa e as pastas necessárias para ele funcionar.
