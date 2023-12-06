@@ -5,12 +5,13 @@
 
 - Organização dos Arquivos:
 
-Os arquivos são organizados em Tiers (.t1, .t2, .t3,etc.) sendo que cada tier um teria uma senha.
+Os arquivos são organizados em Tiers (.t1, .t2, .t3,etc.) dentro da pasta files/ sendo que cada tier um teria uma senha.
 
 - t1- acesso irrestrito
 
 - tn- precisará de uma senha.
 
+Arquivo de ajuda para listar comandos está na pasta help_file/
 
 ## Para Executar:
 - Pelo terminal/cmd:
