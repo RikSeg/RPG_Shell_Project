@@ -20,4 +20,4 @@ python Terminal_shell.py
 ~~~
 - Executável:
 
-Acessando a pasta dist/ desse repositório há o .zip da pasta com um executável do programa e as pastas necessárias para ele funcionar.
+Acessando a pasta dist/ desse repositório há o .zip da pasta com um executável do programa e as pastas necessárias para ele funcionar. (Demo)
